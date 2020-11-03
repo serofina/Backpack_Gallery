@@ -552,7 +552,7 @@ nav .active-section span {
 }
 
 #featured .owl-dots .active span {
-  background-color: #45489a !important;
+  background-color: transparent !important;
 }
 
 #featured .owl-dots button {
@@ -614,7 +614,7 @@ nav .active-section span {
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background-color: rgba(69, 72, 154, 0.9);
+  background-color: #464646;
   display: inline-block;
   height: 44px;
   line-height: 44px;
