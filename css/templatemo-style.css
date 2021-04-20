@@ -416,15 +416,19 @@ nav .active-section span {
 }
 
 .Modern-Slider .item-1 .image {
-  background-image: url(../img/slide_1.jpg);
+  background-image: url(https://live.staticflickr.com/65535/51126703609_919c9d8259_b.jpg);
 }
 
 .Modern-Slider .item-2 .image {
-  background-image: url(../img/slide_2.jpg);
+  background-image: url(https://live.staticflickr.com/65535/51126645156_322a45d420_b.jpg);
 }
 
 .Modern-Slider .item-3 .image {
-  background-image: url(../img/slide_3.jpg);
+  background-image: url(https://live.staticflickr.com/65535/51126703594_571cd5f0b6_b.jpg);
+}
+
+.Modern-Slider .item-4 .image {
+  background-image: url(https://live.staticflickr.com/65535/51126684832_d93f8087c4_b.jpg);
 }
 
 .Modern-Slider .PrevArrow:before {
